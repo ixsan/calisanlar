@@ -1,0 +1,17 @@
+{
+    "name": "package/composer",
+    "description": "Ilk Deneme",
+    "authors": [
+        {
+            "name": "Ihsan ONAL",
+            "email": "xsanonal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Calisan": "src/"
+        }
+    }
+}
